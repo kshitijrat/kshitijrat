@@ -84,7 +84,7 @@
 
 ---
 
-### 🌇 Day / 🌃 Night Mode Animation  
+### ⚙️ Code in Motion (Dynamic Contribution Animation)  
 
 <p align="center">
   <picture>
