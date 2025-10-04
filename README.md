@@ -52,7 +52,7 @@
 |----------|--------------|-------------|--------|
 | **🏨 Hostel Hub** | Full-stack hostel management system with role-based authentication & operations management. | Spring Boot, Hibernate, MySQL | [🔗 Code](https://github.com/kshitijrat/Hostel_Hub) |
 | **📊 DevScope** | Modern GitHub profile explorer with interactive data visualization & comparison. | React.js, Tailwind CSS, GitHub API | [🔗 Code](https://github.com/kshitijrat/Devscope) |
-| **🌍 Disaster Alert Detection** | Real-time disaster monitoring app with multi-API integration & dynamic maps. | MERN Stack | [🔗 Code](https://github.com/kshitijrat/DM) |
+| **🌍 Disaster Alert Detection** | Real-time disaster monitoring app with multi-API integration & dynamic maps. | Spring Boot + React.js | [🔗 Code](https://github.com/kshitijrat/DM) |
 | **🗳️ Live Polling System** | Real-time interactive polling app using WebSockets. | React, Node.js, Socket.IO | [🔗 Code](https://github.com/kshitijrat/Live-Polling-System) |
 | **💰 Finance Tracker** | Smart personal finance management tool. | TypeScript, React | [🔗 Code](https://github.com/kshitijrat/Finance-Tracker) |
 
