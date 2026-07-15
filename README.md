@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Kshitij%20Ratnawat&fontSize=48&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20System%20Designer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%"/>
 
-<a href="https://kshitijratnawat.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
+<a href="[https://kshitijratnawat.dev](https://portfolio-frontend-09cr.onrender.com/)" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
 <a href="https://www.linkedin.com/in/kshitij-ratnawat/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kshitijratnawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E0F2FE" /></a>
 <a href="https://github.com/kshitijrat" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
@@ -294,7 +294,7 @@ I'm always open to collaborating on interesting projects, discussing system desi
 
 <a href="mailto:kshitijratnawat@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E0F2FE"/></a>
 <a href="https://www.linkedin.com/in/kshitij-ratnawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kshitijratnawat.dev"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
+<a href="[https://kshitijratnawat.dev](https://portfolio-frontend-09cr.onrender.com/)"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
 
 <br/><br/>
 
