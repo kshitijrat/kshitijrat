@@ -1,260 +1,307 @@
 <div align="center">
-  
-# Hi there 👋, I'm **Kshitij Ratnawat**
 
-### 🚀 Full-Stack Developer | Backend Specialist | System Designer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Kshitij%20Ratnawat&fontSize=48&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20System%20Designer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://portfolio-frontend-09cr.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-ratnawat/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijratnawat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijrat)
+<a href="https://kshitijratnawat.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
+<a href="https://www.linkedin.com/in/kshitij-ratnawat/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kshitijratnawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E0F2FE" /></a>
+<a href="https://github.com/kshitijrat" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
 
----
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kshitijrat&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kshitijrat?label=Followers&style=for-the-badge&color=1E3A8A&labelColor=0F172A" />
 
 </div>
 
-## 💼 Professional Summary
+<br/>
 
-Full-Stack Engineer with proven expertise in designing and deploying **scalable microservices architecture** and **high-performance backend systems**. Currently contributing to production banking systems at **Intellect Design Arena**, handling real transactions for PSU banks.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+microservices+%26+high-performance+backends;Currently+shipping+production+code+at+Intellect+Design+Arena;Java+%7C+Spring+Boot+%7C+System+Design+%7C+Distributed+Systems;600%2B+problems+solved+%40+LeetCode+%7C+Rating+1556" alt="Typing SVG" />
 
-**Specializing in:** Backend Architecture | Microservices | Database Optimization | System Design
+<br/><br/>
 
----
+## 🧠 About Me
 
-## 🎯 Current Role
-
-**Software Development Engineer Intern** @ **Intellect Design Arena**  
-📍 Chennai, India | 🕐 Jan 2026 – Present
-
-### Key Contributions:
-- 🔧 **Engineered Spring Boot microservices** for Cash Management (CNR & VAM) module processing real banking transactions
-- 🐛 **Resolved 10+ production issues** through systematic log analysis and root-cause debugging in live banking environment
-- ⚡ **Optimized Oracle Database queries** improving transaction processing speed by 40%+ through indexing and query tuning
-- 📋 **Conducted code reviews** ensuring production-grade quality standards and architectural consistency
-- 🔐 **Implemented role-based access control** across banking systems protecting sensitive financial data
-
----
-
-## 🛠️ Technology Stack
-
-### **Backend Development** (Expert Level)
-```
-Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate
-REST APIs • Microservices Architecture • Design Patterns
+```yaml
+name: Kshitij Ratnawat
+role: Full-Stack Engineer (Backend-first)
+currently_working_on: Cash Management module @ Intellect Design Arena (live PSU banking system)
+focus: Scalable microservices, high-performance backend systems, clean architecture
+education: MCA @ NIT Bhopal (MANIT)
+fun_fact: Ships side-projects that real strangers actually use 🚀
 ```
 
-### **Frontend Development** (Proficient)
-```
-React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
-Context API • Component Architecture
-```
+<br/>
 
-### **Database & Data Management** (Advanced)
-```
-Oracle SQL (Query Optimization, Indexing) • MySQL • MongoDB
-JPA/ORM • Transaction Management • Schema Design
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
-### **DevOps & Tools**
-```
-Maven • Git & GitHub • Docker • Postman • IntelliJ IDEA
-OpenShift • JIRA • Spring Security
-```
+## ⚙️ Tech Arsenal
 
-### **Core Competencies**
-```
-System Design • Microservices • JWT & OAuth2 • RESTful Design
-API Gateway Pattern • Async Processing • Scalability
-Database Optimization • Clean Code Principles
-```
+<div align="center">
 
----
+**Backend Development** — *Expert*
+<br/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-0F172A?style=flat-square&logo=spring&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Hibernate-0F172A?style=flat-square&logo=hibernate&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Microservices-0F172A?style=flat-square&logo=kubernetes&logoColor=38BDF8"/>
 
-## 🏗️ Featured Projects
+**Frontend Development** — *Proficient*
+<br/>
+<img src="https://img.shields.io/badge/React.js-0F172A?style=flat-square&logo=react&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
 
-### 1. **🛒 Distributed Order Processing System**
-**Advanced microservices architecture with payment integration & consistency patterns**
+**Database & Data**
+<br/>
+<img src="https://img.shields.io/badge/Oracle_SQL-0F172A?style=flat-square&logo=oracle&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=38BDF8"/>
 
-**Description:**  
-Production-grade order management system demonstrating enterprise-level design patterns. Handles complete order lifecycle from placement through payment to fulfillment with guaranteed consistency.
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Maven-0F172A?style=flat-square&logo=apachemaven&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/OpenShift-0F172A?style=flat-square&logo=redhatopenshift&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=38BDF8"/>
 
-**Architecture & Impact:**
-- ✅ **4 Independent Microservices** (Order, Payment, Inventory, Notification)
-- ✅ **API Gateway** with centralized routing and rate limiting
-- ✅ **Asynchronous Webhook Processing** (Razorpay integration)
-- ✅ **Service Discovery** enabling dynamic service location
-- ✅ **Transaction Consistency** across distributed services
-- ✅ **JWT-Based Authentication** with role-based authorization
+</div>
 
-**Tech Stack:** Spring Boot | Oracle/MySQL | JPA/Hibernate | Razorpay API | REST APIs
+<br/>
 
-**Key Metrics:** Handles 1000+ orders/minute | <100ms API response time | 99.9% uptime design
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
-🔗 [View Repository](https://github.com/kshitijrat)
+## 💼 Current Role
 
----
+<table>
+<tr>
+<td width="100%">
 
-### 2. **📊 AI-Powered Code Assistant (Spring Boot + Gemini API)**
-**Real-time intelligent programming support using LLM integration**
+**Software Development Engineer Intern** @ Intellect Design Arena
+`Chennai, India · Jan 2026 – Present`
 
-**Description:**  
-Enterprise chatbot service that provides intelligent programming solutions through Google's Gemini API. Demonstrates advanced API integration and AI-driven feature development.
+- 🔧 Engineered Spring Boot microservices for the **Cash Management** module — a live PSU banking system processing real financial transactions
+- 🐛 Resolved **10+ production issues** through systematic log analysis and root-cause debugging in a live banking environment
+- ⚡ Optimized Oracle DB queries, improving transaction processing speed
+- 👀 Conducted production-grade code reviews to ensure quality and reliability
+- 🔐 Implemented role-based access control, securing sensitive financial data
 
-**Key Features:**
-- 🤖 **LLM Integration** with Google Gemini for real-time responses
-- 🎯 **Prompt Engineering** optimization for 95%+ accuracy
-- ⚡ **REST API Design** with comprehensive error handling
-- 📝 **JSON Processing** and external API integration
-- 🔄 **Async Response Handling** preventing service blocking
-- 📊 **Token Management** optimizing API costs
+</td>
+</tr>
+</table>
 
-**Tech Stack:** Spring Boot | Gemini API | REST APIs | JSON Processing
+<br/>
 
-**Performance:** <2s average response time | 5000+ daily queries | 94% user satisfaction
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
-🔗 [View Repository](https://github.com/kshitijrat)
+## 🚀 Live & Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 3. **📋 Collaborative Task Management Platform (Kanban)**
-**Full-stack application demonstrating modern web architecture patterns**
+### 🧩 LeetRank Pro & Sync
+**Published Chrome Extension — Live on Chrome Web Store**
 
-**Description:**  
-Professional task management system combining React frontend with Spring Boot backend. Implements real-time collaboration features and persistent data management.
+Real-time LeetCode contest analytics overlay with auto-sync of accepted solutions to GitHub.
 
-**Full-Stack Implementation:**
-- **Frontend:** React.js with Context API state management
-- **Backend:** Spring Boot REST API with JWT authentication
-- **Database:** MongoDB Atlas for scalable document storage
-- **Features:** Drag-drop task management, team collaboration, real-time updates
+- Custom UI overlay injected via Manifest V3
+- Live rating-delta predictions during contests
+- Secure GitHub OAuth + token validation for auto-push
+- Solutions auto-categorized by difficulty
 
-**Tech Stack:** React.js | Spring Boot | MongoDB | JWT Auth | REST APIs
+`Manifest V3` `OAuth2` `Chrome APIs` `GitHub API`
 
-**Metrics:** 500+ tasks managed | <50ms task updates | 99.5% uptime
+<a href="#"><img src="https://img.shields.io/badge/Chrome_Web_Store-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A"/></a>
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/Source-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
-🔗 [View Repository](https://github.com/kshitijrat)
+> ⚠️ Replace the Chrome Web Store badge link above with your actual listing URL.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 4. **🚶 Human Gait Analysis ML Model**
-**Data science project applying statistical modeling to biometric analysis**
+### 🔀 Distributed Order Processing System
+**4-Service Microservices Architecture**
 
-**Description:**  
-Sophisticated machine learning model analyzing human walking patterns using polynomial regression. Demonstrates strong mathematical foundation and Python proficiency.
+Production-grade order management system with guaranteed transaction consistency.
 
-**Technical Approach:**
-- 📊 **Polynomial Regression** for motion pattern prediction
-- 📈 **Statistical Validation** using MSE and R² metrics
-- 🔍 **Feature Engineering** from video motion data
-- 🎯 **Model Optimization** achieving 94% prediction accuracy
+- 4 independent microservices (Order, Payment, Inventory, Notification)
+- API Gateway with centralized routing
+- Service discovery for dynamic service location
+- JWT-based auth + payment retry logic
 
-**Tech Stack:** Python | NumPy | Pandas | Scikit-learn | Matplotlib
+`Spring Boot` `Oracle/MySQL` `JPA/Hibernate` `Razorpay API` `REST APIs`
 
-**Results:** Predicts gait cycles with 94% accuracy | MSE: 0.032 | R²: 0.936
+📊 1000+ orders processed · <100ms avg response time · 99.9% uptime (sample metrics)
 
-🔗 [View Repository](https://github.com/kshitijrat)
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 5. **📡 DevScope - GitHub Profile Analytics**
-**Interactive analytics platform for GitHub profile exploration**
+### 🤖 AI-Powered Code Assistant
+**LLM-Integrated Programming Support (Spring Boot + Gemini API)**
 
-**Description:**  
-Modern web application providing deep insights into GitHub user statistics with beautiful data visualization.
+Enterprise chatbot service providing intelligent programming assistance via Google Gemini.
 
-**Features:**
-- 🔍 Real-time GitHub API integration
-- 📊 Interactive data visualization
-- 🎨 Responsive Tailwind CSS design
-- ⚡ Optimized performance with caching
+- Real-time LLM integration with prompt engineering
+- Async request handling to prevent service blocking
+- Token management for API cost optimization
 
-**Tech Stack:** React.js | Tailwind CSS | GitHub API | Charting Library
+`Spring Boot` `Gemini API` `REST APIs` `JSON Processing`
 
-🔗 [View Repository](https://github.com/kshitijrat/Devscope)
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
----
+</td>
+<td width="50%" valign="top">
+
+### 📋 Collaborative Task Management Platform
+**Full-Stack Kanban System**
+
+Real-time collaborative task manager with drag-and-drop workflows.
+
+- React frontend with Context API state management
+- Spring Boot REST backend with JWT auth
+- MongoDB Atlas for document storage
+- Real-time collaborative updates
+
+`React.js` `Spring Boot` `MongoDB` `JWT Auth`
+
+📊 500+ tasks managed · <50ms task updates · 99.5% uptime (sample metrics)
+
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚶 Human Gait Analysis ML Model
+**Biometric Motion Analysis via Polynomial Regression**
+
+Machine learning model analyzing human walking patterns for biometric applications.
+
+- Polynomial regression for motion pattern prediction
+- Statistical validation using MSE & R² metrics
+- Feature engineering from raw video motion data
+
+`Python` `NumPy` `Pandas` `Matplotlib`
+
+📊 94% accuracy · MSE 0.032 · R² 0.936
+
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 DevScope — GitHub Profile Analytics
+**Interactive Analytics Platform**
+
+Web app providing deep insights into GitHub user stats with rich visualizations.
+
+- Real-time GitHub API integration
+- Interactive data visualization & responsive tabbed UI
+- Optimized performance with intelligent caching
+
+`React.js` `Tailwind CSS` `GitHub API` `Charting Library`
+
+<a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
 ## 🏆 Achievements & Recognition
 
-| Achievement | Details | Date |
-|-------------|---------|------|
-| **NIMCET Rank 370** | All India entrance exam for NIT admission | 2023 |
-| **Production Banking System** | Live system handling real financial transactions | Present |
-| **Smart India Hackathon** | National-level innovation competition | 2024 |
-| **Kriyeta 3.0 Hackathon** | Campus-wide technical competition winner | 2024 |
-| **AIR 370 NIMCET** | Top 0.01% selection rate | 2023 |
+| Achievement | Details | Year |
+|:---|:---|:---:|
+| 🎓 NIMCET Rank 370 | All India entrance exam for MCA admission | 2023 |
+| 🏦 Production Banking System | Live system handling real financial transactions | Present |
+| 💡 Smart India Hackathon | National-level innovation competition | 2024 |
+| 🚩 Kriyeta 3.0 Hackathon | Campus-wide technical problem-solving | 2024 |
+| 📝 AIR 370 NIMCET | Top 0.01% selection rate | 2023 |
 
----
+<br/>
 
-## 📚 Education
+## 🎓 Education
 
-**Master of Computer Application (MCA)**  
-🎓 Maulana Azad National Institute of Technology (NIT Bhopal)  
-📅 Aug 2023 – May 2026 | 📍 Bhopal, India
+**Master of Computer Application (MCA)**
+Maulana Azad National Institute of Technology (NIT Bhopal) · Aug 2023 – May 2026 · Bhopal, India
 
-**Bachelor of Computer Application (BCA)**  
-🎓 Rajiv Gandhi Govt PG College  
-📅 Aug 2020 – May 2023 | 📍 Mandsaur, India
+**Bachelor of Computer Application (BCA)**
+Rajiv Gandhi Govt PG College · Aug 2020 – May 2023 · Mandsaur, India
 
----
+<br/>
 
-## 📊 Competitive Programming
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
-**LeetCode** - Rating: **1556** (Advanced Level)
-- 🏅 **400+ problems** solved across all difficulty levels
-- 📈 Consistent monthly problem-solving streak
-- 🎯 Focus areas: Data Structures, Algorithms, System Design
-
-**Other Platforms:**
-- 🔗 [Codeforces](https://codeforces.com/profile/kshitijrat) - Active competitive programmer
-- 📝 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kshitijrhrii) - DSA practice and learning
-
----
-
-## 💡 Core Competencies
-
-| Domain | Skills |
-|--------|--------|
-| **Backend Development** | Spring Boot, Microservices, REST APIs, System Design, Database Optimization |
-| **Frontend Development** | React.js, Component Architecture, State Management, Responsive Design |
-| **Databases** | Oracle SQL, MySQL, MongoDB, Query Optimization, Indexing |
-| **Software Architecture** | Microservices, API Gateway, Service Discovery, Async Processing, SOLID Principles |
-| **Problem Solving** | Data Structures, Algorithms, Design Patterns, System Scaling |
-| **DevOps & Tools** | Maven, Git, Docker, Postman, IntelliJ IDEA, Spring Security |
-
----
-
-## 📈 GitHub Statistics
+## 🧩 Competitive Programming
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshitijrat&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitijrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijrat&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://img.shields.io/badge/LeetCode-Rating_1556-38BDF8?style=for-the-badge&logo=leetcode&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Problems_Solved-600%2B-1E3A8A?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </div>
 
----
+- 🎯 400+ problems solved across all difficulty levels
+- 🔥 Consistent monthly problem-solving streak
+- 🧠 Focus areas: Data Structures, Algorithms, System Design
 
-## 🤝 Let's Connect
+Active on **[LeetCode](https://leetcode.com/kshitijrat)** · **[Codeforces](https://codeforces.com/profile/kshitijrat)** · **[GeeksforGeeks](https://www.geeksforgeeks.org/user/kshitijrat)**
 
-I'm always open to collaborating on interesting projects, discussing system design, or helping others grow in software development.
+<br/>
 
-- 📧 **Email:** kshitijratnawat@gmail.com
-- 💼 **LinkedIn:** [Kshitij Ratnawat](https://www.linkedin.com/in/kshitij-ratnawat/)
-- 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-frontend-09cr.onrender.com/)
-- 💬 **Discord/Twitter:** Available on request
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
 
----
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### ⚡ "Good code is like a good joke - you shouldn't have to explain it"
+<img src="https://github-readme-stats.vercel.app/api?username=kshitijrat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E0F2FE&ring_color=38BDF8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijrat&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
 
-**Made with ❤️ by Kshitij Ratnawat** | Last Updated: January 2026
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E0F2FE" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijrat&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=E0F2FE" width="48%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kshitijrat&label=Profile+Views&color=0047AB&style=flat)
+<img src="https://github-profile-trophy.vercel.app/?username=kshitijrat&theme=tokyonight&no-frame=true&margin-w=8&column=6" width="90%"/>
+
+</div>
+
+> 💡 Tip: The activity graph and stats cards refresh automatically — no setup needed beyond your GitHub username being public.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=2&width=100%25" width="100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, discussing system design, or helping others grow in software engineering.
+
+<a href="mailto:kshitijratnawat@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E0F2FE"/></a>
+<a href="https://www.linkedin.com/in/kshitij-ratnawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kshitijratnawat.dev"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
+
+<br/><br/>
+
+> *"Good code is like a good joke — you shouldn't have to explain it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
