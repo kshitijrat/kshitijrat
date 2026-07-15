@@ -9,8 +9,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kshitijrat&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/kshitijrat?label=Followers&style=for-the-badge&color=1E3A8A&labelColor=0F172A" />
+<!-- <img src="https://komarev.com/ghpvc/?username=kshitijrat&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kshitijrat?label=Followers&style=for-the-badge&color=1E3A8A&labelColor=0F172A" /> -->
 
 </div>
 
