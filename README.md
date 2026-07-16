@@ -118,10 +118,8 @@ Real-time LeetCode contest analytics overlay with auto-sync of accepted solution
 
 `Manifest V3` `OAuth2` `Chrome APIs` `GitHub API`
 
-<a href="#"><img src="https://img.shields.io/badge/Chrome_Web_Store-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A"/></a>
+<a href="#"><img src="https://chromewebstore.google.com/detail/bacpmpojkggibcadipnkpifihlfcljbg?utm_source=item-share-cp"/></a>
 <a href="https://github.com/kshitijrat"><img src="https://img.shields.io/badge/Source-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
-
-> ⚠️ Replace the Chrome Web Store badge link above with your actual listing URL.
 
 </td>
 <td width="50%" valign="top">
